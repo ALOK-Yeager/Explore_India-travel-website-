@@ -58,40 +58,50 @@ https://placehold.co/300x200?text=Home+Screen	https://placehold.co/300x200?text=
 ## Installation and Setup 🛠️
 Clone the repository:
 
-bash
+```bash
 git clone https://github.com/ALOK-Yeager/Explore_India-travel-website-.git
+```
 Open the project directory:
 
-bash
+```bash
 cd Explore_India-travel-website-
+```
+
 Launch in browser:
 
-bash
-# For Windows:
+### For Windows:
+
+```bash
 start index.html
+```
 
-# For macOS:
+### For macOS:
+
+```bash
 open index.html
+```
+### For Linux:
 
-# For Linux:
+```bash
 xdg-open index.html
+```
 Live Demo
 Experience the website: Explore India Live Demo
 
-# Hackathon Experience 🏆
+### Hackathon Experience 🏆
 This project was developed during the DTU Hackathon where I:
 
 Implemented responsive design principles
 
 Created smooth UI animations and transitions
 
-Developed under time constraints (48 hours)
+Developed under time constraints (12 hours)
 
 Collaborated with team members remotely
 
 Presented the final product to judges
 
-# Future Improvements 🚀
+### Future Improvements 🚀
 - Backend Integration: Connect to a booking API
 
 - User Authentication: Implement login/signup functionality
@@ -115,10 +125,10 @@ graph LR
 
 
 
-# Contributions Welcome 🤝
+### Contributions Welcome 🤝
 Feel free to fork this project and submit pull requests! Please create an issue first to discuss major changes.
 
-# License 📄
+### License 📄
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Built with passion during DTU Hackathon
