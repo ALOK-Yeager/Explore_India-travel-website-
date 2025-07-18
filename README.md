@@ -6,8 +6,8 @@
 [![GitHub Stars](https://img.shields.io/github/stars/ALOK-Yeager/Explore_India-travel-website-?style=for-the-badge)](https://github.com/ALOK-Yeager/Explore_India-travel-website-)
 
 <div align="center">
-  <img src="https://placehold.co/600x400?text=Homepage+Screenshot" alt="Homepage Preview">
-  <p><em>Add your homepage screenshot here</em></p>
+  <img src="src/screenshots/Tourandtravel ss 1.png" alt="Homepage Preview">
+  <p><em>homepage</em></p>
 </div>
 
 ## Overview
@@ -51,7 +51,10 @@ graph TD
  ## Screenshots 📸
 Homepage	Category View	Booking
 https://placehold.co/300x200?text=Home+Screen	https://placehold.co/300x200?text=Category+View	https://placehold.co/300x200?text=Booking+Form
-	Add actual screenshot	Add actual screenshot
+<img src="src/screenshots/TourAndTravel ss-2.png" alt="Homepage Preview">
+<img src="src/screenshots/TourAndTrtavel ss-3.png" alt="Homepage Preview">
+<img src="src/screenshots/TourAndTrtavel ss-4.png" alt="Homepage Preview">
+	
 ## Installation and Setup 🛠️
 Clone the repository:
 
