@@ -49,11 +49,12 @@ graph TD
     E --> K[Booking Form]
 ```
  ## Screenshots 📸
-Homepage	Category View	Booking
-https://placehold.co/300x200?text=Home+Screen	https://placehold.co/300x200?text=Category+View	https://placehold.co/300x200?text=Booking+Form
-<img src="src/screenshots/TourAndTravel ss-2.png" alt="Homepage Preview">
-<img src="src/screenshots/TourAndTrtavel ss-3.png" alt="Homepage Preview">
-<img src="src/screenshots/TourAndTrtavel ss-4.png" alt="Homepage Preview">
+Blogs
+<img src="src/screenshots/TourAndTravel ss-2.png" alt="Blogs Page">
+Services
+<img src="src/screenshots/TourAndTrtavel ss-3.png" alt="Key areas">
+Key Destination
+<img src="src/screenshots/TourAndTravel ss-4.png" alt="Key Destination">
 	
 ## Installation and Setup 🛠️
 Clone the repository:
@@ -132,4 +133,4 @@ Feel free to fork this project and submit pull requests! Please create an issue 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Built with passion during DTU Hackathon
-https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github
+
